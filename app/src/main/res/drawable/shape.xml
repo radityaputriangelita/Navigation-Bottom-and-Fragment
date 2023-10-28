@@ -1,0 +1,8 @@
+<!-- res/drawable/rounded_rectangle.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/green_blue" /> <!-- Fill color in hexadecimal format -->
+    <corners/> <!-- Radius for rounded corners in dp -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/green_blue" /> <!-- Stroke color in hexadecimal format -->
+</shape>
